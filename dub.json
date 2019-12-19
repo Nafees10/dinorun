@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Nafees"
+	],
+	"copyright": "Copyright © 2019, Nafees",
+	"dependencies": {
+		"utils": "~>0.3.4",
+	},
+	"description": "A simple terminal game",
+	"license": "MIT",
+	"name": "dinorun"
+}
