@@ -8,15 +8,15 @@ To build this, you need:
 
 * dub
 * dmd (other Dlang compilers might work, but this is the only tested one)
-* git
 
 These bash commands will get you a binary of the game:  
 ```
-git clone https://github.com/Nafees10/dinorun
-cd dinorun
-dub build -b=release
+dub fetch dinorun
+dub build dinorun -b=release
 ```
-This will create a binary named `dinorun` in the directory.
+This will create a binary named `dinorun` in the directory.  
+To run it, do:  
+`dub run dinorun`
 
 ---
 
