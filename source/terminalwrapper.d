@@ -17,8 +17,6 @@ public:
 	}
 	~this(){
 		_term.clear;
-		.destroy(_input);
-		.destroy(_term);
 	}
 	/// Returns: width of termial
 	@property int width(){

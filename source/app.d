@@ -253,6 +253,6 @@ public:
 	}
 	/// Returns: true if is colliding with a GroundObstacle
 	bool isColliding(GroundObstacle obs){
-		return (obs.x < DINO_POS_X) && (obs.x > DINO_POS_X - DINO_WIDTH) && (cast(int)_y >= obs.y-1);
+		return (obs.x < DINO_POS_X+1) && (obs.x > DINO_POS_X - DINO_WIDTH) && (cast(int)_y >= obs.y-1);
 	}
 }
