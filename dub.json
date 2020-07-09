@@ -1,8 +1,8 @@
 {
 	"authors": [
-		"Nafees"
+		"Nafees Hassan"
 	],
-	"copyright": "Copyright © 2019, Nafees",
+	"copyright": "Copyright © 2019-2020, Nafees Hassan",
 	"dependencies": {
 		"utils": "~>0.3.4",
 	},

@@ -1,0 +1,17 @@
+.dub
+dub.selections.json
+docs.json
+__dummy.html
+docs/
+/dinorun
+dinorun.so
+dinorun.dylib
+dinorun.dll
+dinorun.a
+dinorun.lib
+dinorun-test-*
+*.exe
+*.o
+*.obj
+*.lst
+.vscode/
