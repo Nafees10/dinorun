@@ -4,7 +4,7 @@
 	],
 	"copyright": "Copyright © 2019-2020, Nafees Hassan",
 	"dependencies": {
-		"utils": "~>0.3.4",
+		"utils": "~>0.3.8"
 	},
 	"description": "A simple terminal game",
 	"license": "MIT",
